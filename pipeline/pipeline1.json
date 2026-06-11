@@ -12,6 +12,12 @@
 				}
 			}
 		],
+		"parameters": {
+			"p": {
+				"type": "int",
+				"defaultValue": 10
+			}
+		},
 		"annotations": []
 	}
 }

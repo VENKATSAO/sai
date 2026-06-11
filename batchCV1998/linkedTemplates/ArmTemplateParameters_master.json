@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "batchCV1998"
+		},
+		"link_sql_password": {
+			"value": ""
+		},
+		"linkedgen2_connectionString": {
+			"value": ""
+		},
+		"link_sql_properties_typeProperties_server": {
+			"value": "mysqlpro.database.windows.net"
+		},
+		"link_sql_properties_typeProperties_database": {
+			"value": "mydb26"
+		},
+		"link_sql_properties_typeProperties_userName": {
+			"value": "sai786"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}

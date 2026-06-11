@@ -1,0 +1,15 @@
+{
+	"name": "batchCV1998",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99158068-f373-4555-afa0-9392ba0b8ab3",
+		"tenantId": "ec5f89c9-dc35-47f2-9c04-a751895dcf28"
+	}
+}
